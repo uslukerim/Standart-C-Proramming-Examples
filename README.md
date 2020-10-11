@@ -1,1 +1,1 @@
-# Standart-C-Proramming-Examples
+# Standard-C-Programming-Examples
